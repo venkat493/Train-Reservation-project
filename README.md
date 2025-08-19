@@ -1,5 +1,5 @@
 # Train-Reservation-project
-It is a simple Train reservation project and How to book for a Train Ticket  in online and Get the Ticket easily.
+It is a simple Train reservation project and How to book for a Train Ticket  in online and Get the Ticket easily.This page is not lively available in the Internet and It just the idea to build the front page and the Registration details of the Train Reservation.
 #index.html
 This code useful creating a simple train reservation front page using html.
 <!DOCTYPE html>
